@@ -51,4 +51,12 @@ This repository contains Data Structures and Algorithms implemented in Java.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shivamgupta0101/DSA-java/tree/master/0099-recover-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Shivamgupta0101/DSA-java/tree/master/0138-copy-list-with-random-pointer) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Shivamgupta0101/DSA-java/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
