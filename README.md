@@ -54,9 +54,18 @@ This repository contains Data Structures and Algorithms implemented in Java.
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shivamgupta0101/DSA-java/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivamgupta0101/DSA-java/tree/master/0138-copy-list-with-random-pointer) |
 ## Linked List
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivamgupta0101/DSA-java/tree/master/0138-copy-list-with-random-pointer) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Shivamgupta0101/DSA-java/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Shivamgupta0101/DSA-java/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
