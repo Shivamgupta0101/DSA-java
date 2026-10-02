@@ -64,8 +64,17 @@ This repository contains Data Structures and Algorithms implemented in Java.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shivamgupta0101/DSA-java/tree/master/0036-valid-sudoku) |
+| [0078-subsets](https://github.com/Shivamgupta0101/DSA-java/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shivamgupta0101/DSA-java/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shivamgupta0101/DSA-java/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shivamgupta0101/DSA-java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
