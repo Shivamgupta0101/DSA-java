@@ -39,6 +39,7 @@ This repository contains Data Structures and Algorithms implemented in Java.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shivamgupta0101/DSA-java/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivamgupta0101/DSA-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,10 +52,12 @@ This repository contains Data Structures and Algorithms implemented in Java.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shivamgupta0101/DSA-java/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivamgupta0101/DSA-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shivamgupta0101/DSA-java/tree/master/0036-valid-sudoku) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivamgupta0101/DSA-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivamgupta0101/DSA-java/tree/master/0138-copy-list-with-random-pointer) |
 ## Linked List
 |  |
@@ -65,6 +68,7 @@ This repository contains Data Structures and Algorithms implemented in Java.
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shivamgupta0101/DSA-java/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/Shivamgupta0101/DSA-java/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivamgupta0101/DSA-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -77,4 +81,8 @@ This repository contains Data Structures and Algorithms implemented in Java.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shivamgupta0101/DSA-java/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivamgupta0101/DSA-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
