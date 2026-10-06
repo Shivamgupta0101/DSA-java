@@ -85,4 +85,8 @@ This repository contains Data Structures and Algorithms implemented in Java.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivamgupta0101/DSA-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Shivamgupta0101/DSA-java/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
