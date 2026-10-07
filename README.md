@@ -62,6 +62,7 @@ This repository contains Data Structures and Algorithms implemented in Java.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shivamgupta0101/DSA-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivamgupta0101/DSA-java/tree/master/0138-copy-list-with-random-pointer) |
 ## Array
 |  |
@@ -89,4 +90,8 @@ This repository contains Data Structures and Algorithms implemented in Java.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shivamgupta0101/DSA-java/tree/master/0058-length-of-last-word) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shivamgupta0101/DSA-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
