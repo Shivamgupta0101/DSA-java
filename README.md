@@ -67,6 +67,7 @@ This repository contains Data Structures and Algorithms implemented in Java.
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Shivamgupta0101/DSA-java/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Shivamgupta0101/DSA-java/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/Shivamgupta0101/DSA-java/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivamgupta0101/DSA-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -93,5 +94,10 @@ This repository contains Data Structures and Algorithms implemented in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Shivamgupta0101/DSA-java/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivamgupta0101/DSA-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Shivamgupta0101/DSA-java/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
